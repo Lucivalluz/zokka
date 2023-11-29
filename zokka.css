@@ -1,25 +1,22 @@
 .cabec{
     
     display: flex;
-    margin-left: 600px;
-    margin-top: -150px;
+    margin-left: 850px;
+    margin-top: -200px;
     font-size: 35px;
       
     
    
 }
 a{
-  margin-left: 25px;
+  margin-left: 35px;
 }
 
 .video{
-   margin-left: 100px;
+   margin-left: 300px;
    margin-top: 150px;
 }
-img{
-    width: 450px;
 
-}
   button{
     font-size: 25px;
     margin-left: 45px;
@@ -32,27 +29,31 @@ img{
   }
   .ini{
     width: 100%;
-    height: 55px;
+    height: 65px;
     background-color: blue;
   }
   .fim{
     width: 100%;
     height: 150px;
     background-color: blue;
-        
+    
   }
   .rod{
-    width: 200px;
+    width: 270px;
     margin-left: 200px;
-    margin-bottom: -110px;
+    margin-bottom: -130px;
   }
   .end{
     color: aliceblue;
-    font-size: 18px;
-    margin-left: 650px;
-    margin-bottom: -10px;
+    font-size: 25px;
+    margin-left: 900px;
+    margin-bottom: -35px;
 
   }
   .text{
     font-size: 35px;
+    margin-left: 50px;
+  }
+  .img{
+    margin-top: 200px;
   }
