@@ -1,17 +1,28 @@
 .cabec{
-    font-size: 35px;
-    margin-left: 800px;
-    margin-top: -200px;
+    
+    display: flex;
+    margin-left: 900px;
+    margin-top: -150px;
+    
+    
    
 }
-a{
-    margin-left: 55px;
-}
+
 iframe{
-    margin-left: 300px;
-    margin-top: 200px;
+    margin-left: 250px;
+    margin-top: 300px;
 }
 img{
     width: 450px;
 
 }
+  button{
+    font-size: 25px;
+    margin-left: 45px;
+  }
+  .parag{
+    margin-top: 150px;
+    font-size: 30px;
+    width: 1800px;
+    margin-left: 80px;
+  }
