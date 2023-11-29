@@ -56,4 +56,13 @@ a{
   }
   .img{
     margin-top: 200px;
+    margin-left: 80px;
+  }
+  .lege{
+    font-size: 25px;
+  }
+  h1{
+    margin-top: 200px;
+    margin-left: 80px;
+    margin-bottom: -95px;
   }
